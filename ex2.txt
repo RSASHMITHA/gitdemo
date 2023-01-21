@@ -1,1 +1,2 @@
 Git Hub doesnot require internet 
+pull = fetch + merge
