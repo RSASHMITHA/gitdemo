@@ -1,3 +1,3 @@
 # gitdemo
 
-GIT DEMO WELCOMES YOU  (:
+GIT DEMO "WELCOMES YOU"  (:
